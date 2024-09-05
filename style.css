@@ -15,6 +15,7 @@ nav {
    margin: 0 auto;
     display: flex;
     padding: 10px;
+    border-radius: 30px;
 }
 h1 {
     display: flex;
@@ -39,6 +40,7 @@ a {
 main {
     background: rgb(245, 238, 219);
     display: flex;
+    border-radius: 30px;
 }
 .sidebar {
     margin-right: 25px;
@@ -46,6 +48,7 @@ main {
 }
 .sidebar-img {
     width: 200px;
+    border-radius: 30px;
 }
 .content {
     flex: 1;
@@ -56,6 +59,7 @@ main {
 #interests {
     border: 4px silver ridge;
     padding: 8px;
+    border-radius: 30px;
 }
 h2, h3 {
     margin: 0px;
